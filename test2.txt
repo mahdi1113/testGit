@@ -2,3 +2,5 @@ test2 file
 change
 
 branch mahdi
+
+this is test2 for merge on master
